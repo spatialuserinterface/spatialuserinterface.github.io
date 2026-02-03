@@ -703,6 +703,195 @@
     ]
   },
   {
+    "number": 25,
+    "thumbnail": "25.png",
+    "title": "Investigating the Effects of Physical Landmarks on Spatial Memory for Information Visualisation in Augmented Reality",
+    "authors": "Jiazhou Liu,Kadek Ananta Satriadi,Barrett Ens,Tim Dwyer",
+    "year": 2024,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "Object-fixed"
+    ],
+    "Layout": [
+      "Flat",
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 26,
+    "thumbnail": "26.png",
+    "title": "Working with Mixed Reality in Public:Effects of Virtual Display Layouts on Productivity,Feeling of Safety,and Social Acceptability",
+    "authors": "by Maurizio Vergari,Verena Biener,Tanja Kojić,Jens Grubert,Sebastian Möller",
+    "year": 2024,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "Continuous"
+    ],
+    "Interaction Modality": [
+      "Controller"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Wild"
+    ]
+  },
+  {
+    "number": 28,
+    "thumbnail": "28.png",
+    "title": "Validating Eyes-free Affordance of On-Finger Hand Proximate User Interfaces in In-situ Scenarios",
+    "authors": "by Shariff A M Faleel,SoonUk Kwon,David Ahlström,Pourang Irani",
+    "year": 2024,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [
+      "Task and plan"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection",
+      "Manipulation"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 32,
+    "thumbnail": "32.png",
+    "title": "Gait Gestures:Examining Stride and Foot Strike Variation as an Input Method While Walking",
+    "authors": "by Ching-Yi Tsai,Ryan Yen,Daekun Kim,Daniel Vogel",
+    "year": 2024,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "Flat"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "Algorithm performance",
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 33,
+    "thumbnail": "33.png",
+    "title": "Improving Video Navigation for Spatial Task Tutorials by Spatially Segmenting and Situating How-To Videos",
+    "authors": "by Book Sadprasid,Carl Gutwin,Scott Bateman",
+    "year": 2024,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [
+      "Task and plan"
+    ],
+    "Anchoring": [
+      "Object-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "User-manual"
+    ],
+    "Driving Mechanism": [
+      "Continuous"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
     "number": 34,
     "thumbnail": "34.png",
     "title": "Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Environments",
@@ -771,6 +960,118 @@
     ]
   },
   {
+    "number": 39,
+    "thumbnail": "39.png",
+    "title": "A Comparative Evaluation of Tabs and Linked Panels for Program Understanding in Augmented Reality",
+    "authors": "by Lucas Kreber,Stephan Diehl",
+    "year": 2023,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "Flat",
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Activation",
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 41,
+    "thumbnail": "41.png",
+    "title": "Arradar:Arrow and Radar Driven HMD-based Visual Guidance in Limited Field-of-View",
+    "authors": "by Zhuangze Hou,Qiufen Xia,Zichuan Xu,Yidi Tang",
+    "year": 2023,
+    "Display Form": [
+      "2D (image)",
+      "3D (object)"
+    ],
+    "Display Information": [
+      "Task and plan"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Automatic"
+    ],
+    "Driving Mechanism": [
+      "Continuous"
+    ],
+    "Interaction Modality": [],
+    "Interaction Function": [],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 42,
+    "thumbnail": "42.png",
+    "title": "Compass+Ring:A Multimodal Menu to Improve Interaction Performance and Comfortability in One-handed Scenarios",
+    "authors": "by Xin Chen,Dongliang Guo,Li Feng; Bo Chen,Wei Liu",
+    "year": 2023,
+    "Display Form": [
+      "2D (image)",
+      "3D (object)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "User-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
     "number": 50,
     "thumbnail": "50.png",
     "title": "Harnessing the Visual Salience Effect With Augmented Reality to Enhance Relevant Information and to Impair Distracting Information",
@@ -803,6 +1104,44 @@
     ],
     "Scenario": [
       "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 51,
+    "thumbnail": "51.png",
+    "title": "STAR:Smartphone-analogous Typing in Augmented Reality",
+    "authors": "Taejun Kim,Amy Karlson,Aakar Gupta,Tovi Grossman,Jason Wu,Parastoo Abtahi,Christopher",
+    "year": 2023,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "Flat"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "Continuous"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User-performance",
       "User experience"
     ],
     "Setting": [
@@ -972,6 +1311,160 @@
     ]
   },
   {
+    "number": 62,
+    "thumbnail": "62.png",
+    "title": "Selection Techniques for 3D Extended Desktop Workstation with AR HMD",
+    "authors": "by Carole Plasson,Renaud Blanch,Laurence Nigay",
+    "year": 2022,
+    "Display Form": [
+      "3D (object)"
+    ],
+    "Display Information": [
+      "Explanatory and extended"
+    ],
+    "Anchoring": [
+      "Object-fixed"
+    ],
+    "Layout": [
+      "Flat"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Controller",
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User-performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 63,
+    "thumbnail": "63.png",
+    "title": "CleAR Sight:Exploring the Potential of Interacting with Transparent Tablets in Augmented Reality",
+    "authors": "by Katja Krug,Wolfgang Büschel,Konstantin Klamka,Raimund Dachselt",
+    "year": 2022,
+    "Display Form": [
+      "2D (image)",
+      "3D(object)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "Object-fixed",
+      "Environment-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "User-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Controller"
+    ],
+    "Interaction Function": [
+      "Activation",
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 64,
+    "thumbnail": "64.png",
+    "title": "Layerable Apps:Comparing Concurrent and Exclusive Display of Augmented Reality Applications",
+    "authors": "by Brandon Huynh,Abby Wysopal,Vivian Ross,Jason Orlosky,Tobias Höllerer",
+    "year": 2022,
+    "Display Form": [
+      "2D (image)",
+      "3D(object)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 65,
+    "thumbnail": "65.png",
+    "title": "SPARVIS:Combining Smartphone and Augmented Reality for Visual Data Analytics",
+    "authors": "by Jinbin Huang,Shuang Liang,Qi Xiong,Yu Gao,Chao Mei,Yi Xu",
+    "year": 2022,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "Flat",
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Controller"
+    ],
+    "Interaction Function": [
+      "Activation"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
     "number": 70,
     "thumbnail": "70.png",
     "title": "Tangible Globes for Data Visualisation in Augmented Reality",
@@ -1083,6 +1576,119 @@
     "Scenario": [
       "Team communication in MR/AR",
       "Understanding environment and work practice"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 77,
+    "thumbnail": "77.png",
+    "title": "EverywhereAR:SemanticAdapt:Optimization-based Adaptation of Mixed Reality Layouts Leveraging Virtual-Physical Semantic Connections",
+    "authors": "by Yifei Cheng,Yukang Yan,Xin Yi,Yuanchun Shi,David Lindlbauer",
+    "year": 2021,
+    "Display Form": [
+      "2D(image)",
+      "3D(object)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "Object-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "User-manual"
+    ],
+    "Driving Mechanism": [
+      "Adaptive"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Activation",
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Wild"
+    ]
+  },
+  {
+    "number": 78,
+    "thumbnail": "78.png",
+    "title": "Comparing Non-Visual and Visual Guidance Methods for Narrow Field of View Augmented Reality Displays",
+    "authors": "by Alexander Marquardt,Christina Trepkowski,Tom David Eibich,Jens Maiero; Ernst Kruijff; Johannes Schöning",
+    "year": 2020,
+    "Display Form": [
+      "2D (image)",
+      "audio"
+    ],
+    "Display Information": [
+      "Task and plan"
+    ],
+    "Anchoring": [
+      "Open space"
+    ],
+    "Layout": [
+      "Flat"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [],
+    "Interaction Function": [],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 80,
+    "thumbnail": "80.png",
+    "title": "Expanding the Bounds of Seated Virtual Workspaces",
+    "authors": "by Mark Mcgill,Aidan Kehoe,Euan Freeman,Stephen Brewster",
+    "year": 2020,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [],
+    "Anchoring": [
+      "Use-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "Event-driven",
+      "Use-driven"
+    ],
+    "Interaction Modality": [
+      "Controller",
+      "Head"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
     ],
     "Setting": [
       "Lab"
@@ -1234,6 +1840,42 @@
     ],
     "Scenario": [
       "Qualitative result inspection"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 91,
+    "thumbnail": "91.png",
+    "title": "Towards Efficient Visual Guidance in Limited Field-of-View Head-Mounted Displays",
+    "authors": "by Felix Bork,Christian Schnelzer,Ulrich Eck,Nassir Navab",
+    "year": 2018,
+    "Display Form": [
+      "2D (image)",
+      "3D(object)"
+    ],
+    "Display Information": [
+      "Task and plan"
+    ],
+    "Anchoring": [
+      "User-fixed"
+    ],
+    "Layout": [
+      "Flat",
+      "3D"
+    ],
+    "Creation Method": [
+      "Automatic"
+    ],
+    "Driving Mechanism": [
+      "Continuous"
+    ],
+    "Interaction Modality": [],
+    "Interaction Function": [],
+    "Scenario": [
+      "User performance",
+      "User experience"
     ],
     "Setting": [
       "Lab"
