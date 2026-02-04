@@ -3,7 +3,7 @@
     "number": 1,
     "thumbnail": "1.png",
     "title": "On-body Icons:Designing a 3D Interface for Launching Apps in Augmented Reality",
-    "authors": "by Uliana Tsimbalistaia,Caroline Berger,Hans Gellersen,Pavel Manakhov",
+    "authors": "by Uliana Tsimbalistaia,Caroline Berger,Hans Gellersen,Pavel Manakhov",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -40,7 +40,7 @@
     "number": 2,
     "thumbnail": "2.png",
     "title": "Spatiality and Semantics - Towards Understanding Content Placement in Mixed Reality",
-    "authors": "by Mats Ole Ellenberg,Marc Satkowski,Weizhou Luo,Raimund Dachselt",
+    "authors": "by Mats Ole Ellenberg,Marc Satkowski,Weizhou Luo,Raimund Dachselt",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -49,7 +49,7 @@
     "Display Information": [],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -73,7 +73,7 @@
     "number": 3,
     "thumbnail": "3.png",
     "title": "Augmented Object Intelligence with XR-Objects",
-    "authors": "by Mustafa Doga Dogan,Eric J Gonzalez,Karan Ahuja,Ruofei Du,Andrea Colaco,Johnny Lee,Mar Gonzalez-Franco,David Kim",
+    "authors": "by Mustafa Doga Dogan,Eric J Gonzalez,Karan Ahuja,Ruofei Du,Andrea Colaco,Johnny Lee,Mar Gonzalez-Franco,David Kim",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -112,14 +112,14 @@
   {
     "number": 4,
     "thumbnail": "4.png",
-    "title": "Evaluating the Object-Centered User Interface in Head-Worn Mixed Reality Environment",
-    "authors": "by Yihan Li,Yong Hu,Zidan Wang,Xukun Shen",
+    "title": "Evaluating the Object-Centered User Interface in Head-Worn Mixed Reality Environmental",
+    "authors": "by Yihan Li,Yong Hu,Zidan Wang,Xukun Shen",
     "year": 2022,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [
-      "Environment"
+      "Environmental"
     ],
     "Anchoring": [
       "Object-fixed"
@@ -151,8 +151,8 @@
   {
     "number": 5,
     "thumbnail": "5.png",
-    "title": "Exploring the Display Patterns of Object-Centered User Interface in Head-Worn Mixed Reality Environment",
-    "authors": "by Yihan Li,Yong Hu,Xukun Shen",
+    "title": "Exploring the Display Patterns of Object-Centered User Interface in Head-Worn Mixed Reality Environmental",
+    "authors": "by Yihan Li,Yong Hu,Xukun Shen",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -190,7 +190,7 @@
     "number": 6,
     "thumbnail": "6.png",
     "title": "Magic Ball:A globe-based system for multidimensional information display and interaction in MR",
-    "authors": "by Lesi Hu,Xiaozhan Liang,Shuo Yan",
+    "authors": "by Lesi Hu,Xiaozhan Liang,Shuo Yan",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -227,16 +227,16 @@
     "number": 7,
     "thumbnail": "7.png",
     "title": "Teachable Reality:Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching",
-    "authors": "by Kyzyl Monteiro,Ritik Vatsal,Neil Chulpongsatorn,Aman Parnami,Ryo Suzuki",
+    "authors": "by Kyzyl Monteiro,Ritik Vatsal,Neil Chulpongsatorn,Aman Parnami,Ryo Suzuki",
     "year": 2023,
     "Display Form": [
       "2D (image)",
       "3D (object)",
-      "audio"
+      "Audio"
     ],
     "Display Information": [
       "Task and plan",
-      "Environmental"
+      "Environmentalal"
     ],
     "Anchoring": [
       "Object-fixed"
@@ -261,7 +261,7 @@
     ],
     "Scenario": [
       "User performance",
-      "Understanding environment and work practice"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Wild"
@@ -271,12 +271,12 @@
     "number": 8,
     "thumbnail": "8.png",
     "title": "ProObjAR:Prototyping Spatially-aware Interactions of Smart Objects with AR-HMD",
-    "authors": "by Hui Ye,Jiaye Leng,Chufeng Xiao,Lili Wang,Hongbo Fu",
+    "authors": "by Hui Ye,Jiaye Leng,Chufeng Xiao,Lili Wang,Hongbo Fu",
     "year": 2023,
     "Display Form": [
       "2D (image)",
       "3D (object)",
-      "audio"
+      "Audio"
     ],
     "Display Information": [
       "System",
@@ -307,7 +307,7 @@
     ],
     "Scenario": [
       "User experience",
-      "Understanding environment and work practice"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Wild"
@@ -317,7 +317,7 @@
     "number": 9,
     "thumbnail": "9.png",
     "title": "Exploring Spatial UI Transition Mechanisms with Head-Worn Augmented Reality",
-    "authors": "by Feiyu Lu and Yan Xu",
+    "authors": "by Feiyu Lu and Yan Xu",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -345,7 +345,7 @@
       "Selection"
     ],
     "Scenario": [
-      "User-performance",
+      "User performance",
       "User experience"
     ],
     "Setting": [
@@ -356,7 +356,7 @@
     "number": 10,
     "thumbnail": "10.png",
     "title": "Data Cubes in Hand:A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality",
-    "authors": "by Shuqi He,Haonan Yao,Luyan Jiang,Kaiwen Li,Nan Xiang,Yue Li,Hai-Ning Liang,Lingyun Yu",
+    "authors": "by Shuqi He,Haonan Yao,Luyan Jiang,Kaiwen Li,Nan Xiang,Yue Li,Hai-Ning Liang,Lingyun Yu",
     "year": 2022,
     "Display Form": [
       "3D (object)"
@@ -395,7 +395,7 @@
     "number": 11,
     "thumbnail": "11.png",
     "title": "ActiveAR:Augmented Reality Task Support System With Proactive Context and Virtual Content Management",
-    "authors": "by Renjie Zhang,Jia Liu,Taishi Sawabe,Yuichiro Fujimoto,Masayuki Kanbara,Hirokazu Kato",
+    "authors": "by Renjie Zhang,Jia Liu,Taishi Sawabe,Yuichiro Fujimoto,Masayuki Kanbara,Hirokazu Kato",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -436,7 +436,7 @@
     "number": 12,
     "thumbnail": "12.png",
     "title": "AmplitudeArrow:On-the-Go AR Menu SelectionUsing Consecutive Simple Head Gestures andAmplitude Visualization",
-    "authors": "by Yang Tian,Youpeng Zhang,Yukang Yan,Shengdong Zhao,Xiaojuan Ma,Yuanchun Shi",
+    "authors": "by Yang Tian,Youpeng Zhang,Yukang Yan,Shengdong Zhao,Xiaojuan Ma,Yuanchun Shi",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -475,7 +475,7 @@
     "number": 13,
     "thumbnail": "13.png",
     "title": "EverywhereAR:A Visual Authoring System for Creating Adaptive AR Game Scenes",
-    "authors": "by Jia Liu,Renjie Zhang,Isidro Butaslac,Taishi Sawabe,Yuichiro Fujimoto,Masayuki Kanbara,Hirokazu Kato",
+    "authors": "by Jia Liu,Renjie Zhang,Isidro Butaslac,Taishi Sawabe,Yuichiro Fujimoto,Masayuki Kanbara,Hirokazu Kato",
     "year": 2025,
     "Display Form": [
       "3D (object)"
@@ -484,7 +484,7 @@
       "Explanatory and extended"
     ],
     "Anchoring": [
-      "Environmental-fixed"
+      "Environmentalal-fixed"
     ],
     "Layout": [
       "3D"
@@ -508,15 +508,15 @@
     "number": 14,
     "thumbnail": "14.png",
     "title": "Augmented Dynamic Data Physicalization:Blending Shape-Changing Data Sculptures With Virtual Content for Interactive Visualization",
-    "authors": "by Severin Engert,Andreas Peetz,Konstantin Klamka,Pierre Surer,Tobias Isenberg,Raimund Dachsel",
+    "authors": "by Severin Engert,Andreas Peetz,Konstantin Klamka,Pierre Surer,Tobias Isenberg,Raimund Dachsel",
     "year": 2025,
     "Display Form": [
       "2D (image)",
       "3D (object)"
     ],
     "Display Information": [
-      "Environmental",
-      "Social and Contextual",
+      "Environmentalal",
+      "Social and contextual",
       "Explanatory and extended"
     ],
     "Anchoring": [
@@ -544,7 +544,7 @@
       "Manipulation"
     ],
     "Scenario": [
-      "Understanding environment and work practice"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Lab"
@@ -554,7 +554,7 @@
     "number": 15,
     "thumbnail": "15.png",
     "title": "“Where Did My Apps Go?” Supporting Scalable and Transition-Aware Access to Everyday Applications in Head-Worn Augmented Reality",
-    "authors": "by Feiyu Lu,Leonardo Pavanatto,Shakiba Davari,Lei Zhang,Lee Lisle,Doug A. Bowman",
+    "authors": "by Feiyu Lu,Leonardo Pavanatto,Shakiba Davari,Lei Zhang,Lee Lisle,Doug A. Bowman",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -563,7 +563,7 @@
       "System"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -594,7 +594,7 @@
     "number": 16,
     "thumbnail": "16.png",
     "title": "Effects of User Interface Orientation on Sense of Immersion in Augmented Reality",
-    "authors": "by Xiangdong Li,Kailin Yin,Yifei Shan,Xinyao Wang,Weidong Geng",
+    "authors": "by Xiangdong Li,Kailin Yin,Yifei Shan,Xinyao Wang,Weidong Geng",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -634,7 +634,7 @@
     "number": 17,
     "thumbnail": "17.png",
     "title": "agentAR:Creating Augmented Reality Applications with Tool-Augmented LLM-based Autonomous Agents",
-    "authors": "by Chenfei Zhu,Shao-Kang Hsia,Xiyun Hu,Ziyi Liu,Jingyu Shi,Karthik Ramani",
+    "authors": "by Chenfei Zhu,Shao-Kang Hsia,Xiyun Hu,Ziyi Liu,Jingyu Shi,Karthik Ramani",
     "year": 2025,
     "Display Form": [
       "2D (image)",
@@ -674,10 +674,87 @@
     ]
   },
   {
+    "number": 18,
+    "thumbnail": "18.png",
+    "title": "Preference-Guided Multi-Objective UI Adaptation",
+    "authors": "by Yao Song,Christoph Gebhardt,Yi-Chi Liao,Christian Holz",
+    "year": 2025,
+    "Display Form": [
+      "2D (image)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "Environmental-fixed"
+    ],
+    "Layout": [
+      "3D"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "Adaptive"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Manipulation"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
+    "number": 19,
+    "thumbnail": "19.png",
+    "title": "Bubble-UI:A Flatigue-Reducing and User-Friendly Spatial UI System Using a Soap Bubble Metaphor",
+    "authors": "by Genta Ono,Kosuke Morimoto,Keita Watanabe",
+    "year": 2025,
+    "Display Form": [
+      "3D (object)"
+    ],
+    "Display Information": [
+      "System"
+    ],
+    "Anchoring": [
+      "Open space"
+    ],
+    "Layout": [
+      "Flat",
+      "Embeded"
+    ],
+    "Creation Method": [
+      "Designer-manual"
+    ],
+    "Driving Mechanism": [
+      "User-driven"
+    ],
+    "Interaction Modality": [
+      "Gesture"
+    ],
+    "Interaction Function": [
+      "Selection"
+    ],
+    "Scenario": [
+      "User performance",
+      "User experience"
+    ],
+    "Setting": [
+      "Lab"
+    ]
+  },
+  {
     "number": 20,
     "thumbnail": "20.png",
     "title": "PropType:Everyday Props as Typing Surfaces in Augmented Reality",
-    "authors": "Hyunjae Gil,Iniyan Joseph,Ashish Pratap,Jin Ryong Kim",
+    "authors": "by Hyunjae Gil,Iniyan Joseph,Ashish Pratap,Jin Ryong Kim",
     "year": 2025,
     "Display Form": [
       "2D (image)",
@@ -717,7 +794,7 @@
     "number": 21,
     "thumbnail": "21.png",
     "title": "Push2AR:Enhancing Mobile List Interactions Using Augmented Reality",
-    "authors": "Jonathan Wieland,Hyunsung Cho,Sebastian Hubenschmid,Akihiro Kiuchi,Harald Reiterer,David Lindlbauer",
+    "authors": "by Jonathan Wieland,Hyunsung Cho,Sebastian Hubenschmid,Akihiro Kiuchi,Harald Reiterer,David Lindlbauer",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -755,8 +832,8 @@
   {
     "number": 22,
     "thumbnail": "22.png",
-    "title": "Ping! Your Food is Ready:Comparing Different Notification Techniques in 3D AR Cooking Environment",
-    "authors": "by Aditya Raikwar,Lucas Plabstt,Anil Ufuk Batmaz,Florian Nieblings",
+    "title": "Ping! Your Food is Ready:Comparing Different Notification Techniques in 3D AR Cooking Environmental",
+    "authors": "by Aditya Raikwar,Lucas Plabstt,Anil Ufuk Batmaz,Florian Nieblings",
     "year": 2024,
     "Display Form": [
       "2D (image)",
@@ -767,7 +844,7 @@
     ],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat",
@@ -792,8 +869,8 @@
   {
     "number": 23,
     "thumbnail": "23.png",
-    "title": "Context-specific Design Methods and Techniques for Developing Mixed Reality Retail Store Environments",
-    "authors": "by Sunidhi Naik,Nick Puckett,Alexis Morris",
+    "title": "Context-specific Design Methods and Techniques for Developing Mixed Reality Retail Store Environmentals",
+    "authors": "by Sunidhi Naik,Nick Puckett,Alexis Morris",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -805,7 +882,7 @@
     "Anchoring": [
       "User-fixed",
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat",
@@ -836,7 +913,7 @@
     "number": 24,
     "thumbnail": "24.png",
     "title": "Adaptive Content Placement in Mixed Reality Through Empirical User Behavioral Patterns",
-    "authors": "by Feiyu Lu,Mengyu Chen,Hsiang Hsu,Pranav Deshpande,Cheng Yao Wang,Blair MacIntyre",
+    "authors": "by Feiyu Lu,Mengyu Chen,Hsiang Hsu,Pranav Deshpande,Cheng Yao Wang,Blair MacIntyre",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -868,7 +945,7 @@
     "number": 25,
     "thumbnail": "25.png",
     "title": "Investigating the Effects of Physical Landmarks on Spatial Memory for Information Visualisation in Augmented Reality",
-    "authors": "Jiazhou Liu,Kadek Ananta Satriadi,Barrett Ens,Tim Dwyer",
+    "authors": "by Jiazhou Liu,Kadek Ananta Satriadi,Barrett Ens,Tim Dwyer",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -905,7 +982,7 @@
     "number": 26,
     "thumbnail": "26.png",
     "title": "Working with Mixed Reality in Public:Effects of Virtual Display Layouts on Productivity,Feeling of Safety,and Social Acceptability",
-    "authors": "by Maurizio Vergari,Verena Biener,Tanja Kojić,Jens Grubert,Sebastian Möller",
+    "authors": "by Maurizio Vergari,Verena Biener,Tanja Kojić,Jens Grubert,Sebastian Möller",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -941,7 +1018,7 @@
     "number": 27,
     "thumbnail": "27.png",
     "title": "Exploring Augmented Reality User Interface Transitions Across Mid-Air,On-Body and Physical Surfaces",
-    "authors": "by Marium-E- Jannat,Prateek Dhaka,Keiko Katsuragawa,Khalad Hasan",
+    "authors": "by Marium-E- Jannat,Prateek Dhaka,Keiko Katsuragawa,Khalad Hasan",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -951,7 +1028,7 @@
     ],
     "Anchoring": [
       "User-fixed",
-      "Environment-fixed",
+      "Environmental-fixed",
       "Open space"
     ],
     "Layout": [
@@ -981,7 +1058,7 @@
     "number": 28,
     "thumbnail": "28.png",
     "title": "Validating Eyes-free Affordance of On-Finger Hand Proximate User Interfaces in In-situ Scenarios",
-    "authors": "by Shariff A M Faleel,SoonUk Kwon,David Ahlström,Pourang Irani",
+    "authors": "by Shariff A M Faleel,SoonUk Kwon,David Ahlström,Pourang Irani",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1020,7 +1097,7 @@
     "number": 29,
     "thumbnail": "29.png",
     "title": "HazARdSnap:Gazed-Based Augmentation Delivery for Safe Information Access While Cycling",
-    "authors": "Guanghan Zhao,Jason Orlosky,Joseph Gabbard,Kiyoshi Kiyokawa",
+    "authors": "by Guanghan Zhao,Jason Orlosky,Joseph Gabbard,Kiyoshi Kiyokawa",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1059,7 +1136,7 @@
     "number": 30,
     "thumbnail": "30.png",
     "title": "HandyNotes:using the hands to create semantic representations of contextually aware real-world objects",
-    "authors": "by Clément Quere,Aline Menin,Raphaël Julien,Hui-Yin Wu,Marco Winckler",
+    "authors": "by Clément Quere,Aline Menin,Raphaël Julien,Hui-Yin Wu,Marco Winckler",
     "year": 2024,
     "Display Form": [
       "2D (image)",
@@ -1098,7 +1175,7 @@
     "number": 31,
     "thumbnail": "31.png",
     "title": "ProInterAR:A Visual Programming Platform for Creating Immersive AR Interactions",
-    "authors": "by Hui Ye,Jiaye Leng,Pengfei Xu,Karan Singh,Hongbo Fu",
+    "authors": "by Hui Ye,Jiaye Leng,Pengfei Xu,Karan Singh,Hongbo Fu",
     "year": 2024,
     "Display Form": [
       "2D (image)",
@@ -1108,7 +1185,7 @@
     "Anchoring": [
       "Object-fixed",
       "User-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat",
@@ -1143,7 +1220,7 @@
     "number": 32,
     "thumbnail": "32.png",
     "title": "Gait Gestures:Examining Stride and Foot Strike Variation as an Input Method While Walking",
-    "authors": "by Ching-Yi Tsai,Ryan Yen,Daekun Kim,Daniel Vogel",
+    "authors": "by Ching-Yi Tsai,Ryan Yen,Daekun Kim,Daniel Vogel",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1182,7 +1259,7 @@
     "number": 33,
     "thumbnail": "33.png",
     "title": "Improving Video Navigation for Spatial Task Tutorials by Spatially Segmenting and Situating How-To Videos",
-    "authors": "by Book Sadprasid,Carl Gutwin,Scott Bateman",
+    "authors": "by Book Sadprasid,Carl Gutwin,Scott Bateman",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1219,8 +1296,8 @@
   {
     "number": 34,
     "thumbnail": "34.png",
-    "title": "Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Environments",
-    "authors": "by Weizhou Luo",
+    "title": "Exploring Spatial Organization Strategies for Virtual Content in Mixed Reality Environmentals",
+    "authors": "by Weizhou Luo",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1228,7 +1305,7 @@
     "Display Information": [],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat",
@@ -1257,7 +1334,7 @@
     "number": 35,
     "thumbnail": "35.png",
     "title": "Adaptive 3D UI Placement in Mixed Reality Using Deep Reinforcement Learning",
-    "authors": "Pranav Deshpande,Cheng Yao Wang,Blair Maclntyre",
+    "authors": "by Pranav Deshpande,Cheng Yao Wang,Blair Maclntyre",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1288,7 +1365,7 @@
     "number": 36,
     "thumbnail": "36.png",
     "title": "SituationAdapt:Contextual UI Optimization in Mixed Reality with Situation Awareness via LLM Reasoning",
-    "authors": "by Zhipeng Li,Christoph Gebhardt,Yves Inglin,Nicolas Steck,Paul Streli,Christian Holz",
+    "authors": "by Zhipeng Li,Christoph Gebhardt,Yves Inglin,Nicolas Steck,Paul Streli,Christian Holz",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1322,7 +1399,7 @@
     "number": 37,
     "thumbnail": "37.png",
     "title": "OnArmQWERTY:An Empirical Evaluation of On-Arm Tap Typing for AR HMDs",
-    "authors": "Rajkumar Darbar,Xuning Hu,Xinan Yan,Yushi Wei,Hai-Ning Liang,Wenge Xu,Sayan Sarcar",
+    "authors": "by Rajkumar Darbar,Xuning Hu,Xinan Yan,Yushi Wei,Hai-Ning Liang,Wenge Xu,Sayan Sarcar",
     "year": 2024,
     "Display Form": [
       "2D (image)"
@@ -1361,13 +1438,13 @@
     "number": 38,
     "thumbnail": "38.png",
     "title": "Gaze-It:Intelligent Multimodal AR Cross-Reality Control System",
-    "authors": "by Yunlei Ren,Ning Xie,Sophyani Banaamwini Yussif,Yifeng Peng,Guowei Wang",
+    "authors": "by Yunlei Ren,Ning Xie,Sophyani Banaamwini Yussif,Yifeng Peng,Guowei Wang",
     "year": 2023,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [
-      "Environmental"
+      "Environmentalal"
     ],
     "Anchoring": [
       "Object-fixed"
@@ -1402,7 +1479,7 @@
     "number": 39,
     "thumbnail": "39.png",
     "title": "A Comparative Evaluation of Tabs and Linked Panels for Program Understanding in Augmented Reality",
-    "authors": "by Lucas Kreber,Stephan Diehl",
+    "authors": "by Lucas Kreber,Stephan Diehl",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1440,7 +1517,7 @@
     "number": 40,
     "thumbnail": "40.png",
     "title": "Exploring the Effects of Virtually-Augmented Display Sizes on Users'Spatial Memory in Smartwatches",
-    "authors": "Marium-E-Jannat,Khalad Hasan",
+    "authors": "by Marium-E-Jannat,Khalad Hasan",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1476,7 +1553,7 @@
     "number": 41,
     "thumbnail": "41.png",
     "title": "Arradar:Arrow and Radar Driven HMD-based Visual Guidance in Limited Field-of-View",
-    "authors": "by Zhuangze Hou,Qiufen Xia,Zichuan Xu,Yidi Tang",
+    "authors": "by Zhuangze Hou,Qiufen Xia,Zichuan Xu,Yidi Tang",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -1511,7 +1588,7 @@
     "number": 42,
     "thumbnail": "42.png",
     "title": "Compass+Ring:A Multimodal Menu to Improve Interaction Performance and Comfortability in One-handed Scenarios",
-    "authors": "by Xin Chen,Dongliang Guo,Li Feng; Bo Chen,Wei Liu",
+    "authors": "by Xin Chen,Dongliang Guo,Li Feng; Bo Chen,Wei Liu",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -1550,7 +1627,7 @@
     "number": 43,
     "thumbnail": "43.png",
     "title": "Level-of-Detail AR:Dynamically Adjusting Augmented Reality Level of Detail Based on Visual Angle",
-    "authors": "by Abby Wysopal,Vivian Ross,Joyce Passananti,Kangyou Yu,Brandon Huynh,Tobias Ho ̈ llerer",
+    "authors": "by Abby Wysopal,Vivian Ross,Joyce Passananti,Kangyou Yu,Brandon Huynh,Tobias Ho ̈ llerer",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1588,7 +1665,7 @@
     "number": 44,
     "thumbnail": "44.png",
     "title": "Labeling Out-of-View Objects in Immersive Analytics to Support Situated Visual Searching",
-    "authors": "by Tica Lin,Yalong Yang,Johanna Beyer,Hanspeter Pfister",
+    "authors": "by Tica Lin,Yalong Yang,Johanna Beyer,Hanspeter Pfister",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1625,7 +1702,7 @@
     "number": 45,
     "thumbnail": "45.png",
     "title": "Exploring the Effects of Augmented Reality Notification Type and Placement in AR HMD while Walking",
-    "authors": "by Hyunjin Le,Woontack Woo",
+    "authors": "by Hyunjin Le,Woontack Woo",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1659,7 +1736,7 @@
     "number": 46,
     "thumbnail": "46.png",
     "title": "Enhancing the Reading Experience on AR HMDs by Using Smartphones as Assistive Displays",
-    "authors": "by Sunyoung Ban,Woontack Woo",
+    "authors": "by Sunyoung Ban,Woontack Woo",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -1669,7 +1746,7 @@
       "Explanatory and extended"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -1699,7 +1776,7 @@
     "number": 47,
     "thumbnail": "47.png",
     "title": "Exploring Interactions with Printed Data Visualizations in Augmented Reality",
-    "authors": "Wai Tong,Chen Zhu-Tian,Meng Xia,Leo Yu-Ho Lo,Linping Yuan,Benjamin Bach,Huamin Qu",
+    "authors": "by Wai Tong,Chen Zhu-Tian,Meng Xia,Leo Yu-Ho Lo,Linping Yuan,Benjamin Bach,Huamin Qu",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1711,7 +1788,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Fat",
+      "Flat",
       "3D"
     ],
     "Creation Method": [
@@ -1737,7 +1814,7 @@
     "number": 48,
     "thumbnail": "48.png",
     "title": "A Dataset and Machine Learning Approach to Classify and Augment Interface Elements of Household Appliances to Support People with Visual Impairment",
-    "authors": "Hanna Tschakert,Florian Lang,Markus Wieland,Albrecht Schmidt,Tonja-Katrin Machulla",
+    "authors": "by Hanna Tschakert,Florian Lang,Markus Wieland,Albrecht Schmidt,Tonja-Katrin Machulla",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1749,7 +1826,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -1771,7 +1848,7 @@
     "number": 49,
     "thumbnail": "49.png",
     "title": "In-the-Wild Experiences with an Interactive Glanceable AR System for Everyday Use",
-    "authors": "Feiyu Lu,Leonardo Pavanatto,Doug A. Bowman",
+    "authors": "by Feiyu Lu,Leonardo Pavanatto,Doug A. Bowman",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1813,7 +1890,7 @@
     "number": 50,
     "thumbnail": "50.png",
     "title": "Harnessing the Visual Salience Effect With Augmented Reality to Enhance Relevant Information and to Impair Distracting Information",
-    "authors": "Xin Lei,Yueh-Lin Tsai,Pei-Luen Patrick Ra",
+    "authors": "by Xin Lei,Yueh-Lin Tsai,Pei-Luen Patrick Ra",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -1852,7 +1929,7 @@
     "number": 51,
     "thumbnail": "51.png",
     "title": "STAR:Smartphone-analogous Typing in Augmented Reality",
-    "authors": "Taejun Kim,Amy Karlson,Aakar Gupta,Tovi Grossman,Jason Wu,Parastoo Abtahi,Christopher",
+    "authors": "by Taejun Kim,Amy Karlson,Aakar Gupta,Tovi Grossman,Jason Wu,Parastoo Abtahi,Christopher",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1879,7 +1956,7 @@
       "Selection"
     ],
     "Scenario": [
-      "User-performance",
+      "User performance",
       "User experience"
     ],
     "Setting": [
@@ -1890,18 +1967,18 @@
     "number": 52,
     "thumbnail": "52.png",
     "title": "Harnessing the Visual Salience Effect With Augmented Reality to Enhance Relevant Information and to Impair Distracting Information",
-    "authors": "Xin Lei,Yueh-Lin Tsai,Pei-Luen Patrick Ra",
+    "authors": "by Xin Lei,Yueh-Lin Tsai,Pei-Luen Patrick Ra",
     "year": 2023,
     "Display Form": [
       "2D (image)",
       "3D (object)"
     ],
     "Display Information": [
-      "Environmental",
+      "Environmentalal",
       "Social and contextual"
     ],
     "Anchoring": [
-      "Environment-fixed",
+      "Environmental-fixed",
       "User-fixed"
     ],
     "Layout": [
@@ -1935,7 +2012,7 @@
     "number": 53,
     "thumbnail": "53.png",
     "title": "UnMapped:Leveraging Experts’ Situated Experiences to Ease Remote Guidance in Collaborative Mixed Reality",
-    "authors": "JanetG.Johnson,Tommy Sharkey,IramualiCynthia Butarbutar,Danica Xiong,Ruijie Huang,Nadir Weibel",
+    "authors": "by JanetG.Johnson,Tommy Sharkey,IramualiCynthia Butarbutar,Danica Xiong,Ruijie Huang,Nadir Weibel",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1972,7 +2049,7 @@
     "number": 54,
     "thumbnail": "54.png",
     "title": "Evaluating the Extension of Wall Displays with AR for Collaborative Work",
-    "authors": "Raphaěl James,Anastasia Bezerianos,Olivier Chapuis",
+    "authors": "by Raphaěl James,Anastasia Bezerianos,Olivier Chapuis",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -1980,7 +2057,7 @@
     "Display Information": [],
     "Anchoring": [
       "User-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat",
@@ -2012,7 +2089,7 @@
     "number": 55,
     "thumbnail": "55.png",
     "title": "Ubi-TOUCH:Ubiquitous Tangible Object Utilization through Consistent Hand-object interaction in Augmented Reality",
-    "authors": "Rahul Jain,Jingyu Shi,Runlin Dun,Zhengzhe Zhu,Xun Qian,Karthik Ramani",
+    "authors": "by Rahul Jain,Jingyu Shi,Runlin Dun,Zhengzhe Zhu,Xun Qian,Karthik Ramani",
     "year": 2023,
     "Display Form": [
       "3D (object)"
@@ -2052,7 +2129,7 @@
     "number": 56,
     "thumbnail": "56.png",
     "title": "Ubi Edge:Authoring Edge-Based Opportunistic Tangible User Interfaces in Augmented Reality",
-    "authors": "by Fengming He,Xiyun Hu,Jingyu Shi,Xun Qian,Tianyi Wang,Karthik Ramani",
+    "authors": "by Fengming He,Xiyun Hu,Jingyu Shi,Xun Qian,Tianyi Wang,Karthik Ramani",
     "year": 2023,
     "Display Form": [
       "2D (image)",
@@ -2093,7 +2170,7 @@
     "number": 57,
     "thumbnail": "57.png",
     "title": "From Shielding to Avoidance:Passenger Augmented Reality and the Layout of Virtual Displays for Productivity in Shared Transit",
-    "authors": "Daniel Medeiros,Mark McGill,Alexander Ng,Robert McDermid,Nadia Pantidi,Julie Williamson,Stephen Brewster",
+    "authors": "by Daniel Medeiros,Mark McGill,Alexander Ng,Robert McDermid,Nadia Pantidi,Julie Williamson,Stephen Brewster",
     "year": 2023,
     "Display Form": [
       "2D (image)"
@@ -2126,7 +2203,7 @@
     "number": 58,
     "thumbnail": "58.png",
     "title": "Precueing Object Placement and Orientation for Manual Tasks in Augmented Reality",
-    "authors": "Jen-Shuo Liu,Barbara Tversky,Steven Feiner",
+    "authors": "by Jen-Shuo Liu,Barbara Tversky,Steven Feiner",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2165,7 +2242,7 @@
     "number": 59,
     "thumbnail": "59.png",
     "title": "Augmented Scale Models:Presenting Multivariate Data Around Physical Scale Models in Augmented Reality",
-    "authors": "by Kadek Ananta Satriadi,Andrew Cunningham,Bruce H. Thomas,Adam Drogemuller,Antoine Odi,Niki Patel,Cathlyn Aston,Ross T. Smith",
+    "authors": "by Kadek Ananta Satriadi,Andrew Cunningham,Bruce H. Thomas,Adam Drogemuller,Antoine Odi,Niki Patel,Cathlyn Aston,Ross T. Smith",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2175,7 +2252,7 @@
     ],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed",
+      "Environmental-fixed",
       "Open space"
     ],
     "Layout": [
@@ -2206,7 +2283,7 @@
     "number": 60,
     "thumbnail": "60.png",
     "title": "ABOVE & BELOW:Investigating Ceiling and Floor for Augmented Reality Content Placement",
-    "authors": "by Marc Satkowski,Rufat Rzayev,Eva Goebel,Raimund Dachselt",
+    "authors": "by Marc Satkowski,Rufat Rzayev,Eva Goebel,Raimund Dachselt",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2217,7 +2294,7 @@
       "System"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat"
@@ -2241,13 +2318,13 @@
     "number": 61,
     "thumbnail": "61.png",
     "title": "Bridging the Gap Across Realities:Visual Transitions Between Virtual and Augmented Reality",
-    "authors": "by Fabian Pointecker,Judith Friedl,Daniel Schwajda,Hans-Christian Jetter,Christoph Anthes",
+    "authors": "by Fabian Pointecker,Judith Friedl,Daniel Schwajda,Hans-Christian Jetter,Christoph Anthes",
     "year": 2022,
     "Display Form": [
       "3D (object)"
     ],
     "Display Information": [
-      "Environmental"
+      "Environmentalal"
     ],
     "Anchoring": [
       "Open space"
@@ -2278,7 +2355,7 @@
     "number": 62,
     "thumbnail": "62.png",
     "title": "Selection Techniques for 3D Extended Desktop Workstation with AR HMD",
-    "authors": "by Carole Plasson,Renaud Blanch,Laurence Nigay",
+    "authors": "by Carole Plasson,Renaud Blanch,Laurence Nigay",
     "year": 2022,
     "Display Form": [
       "3D (object)"
@@ -2306,7 +2383,7 @@
       "Selection"
     ],
     "Scenario": [
-      "User-performance",
+      "User performance",
       "User experience"
     ],
     "Setting": [
@@ -2317,16 +2394,16 @@
     "number": 63,
     "thumbnail": "63.png",
     "title": "CleAR Sight:Exploring the Potential of Interacting with Transparent Tablets in Augmented Reality",
-    "authors": "by Katja Krug,Wolfgang Büschel,Konstantin Klamka,Raimund Dachselt",
+    "authors": "by Katja Krug,Wolfgang Büschel,Konstantin Klamka,Raimund Dachselt",
     "year": 2022,
     "Display Form": [
       "2D (image)",
-      "3D(object)"
+      "3D (object)"
     ],
     "Display Information": [],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -2356,11 +2433,11 @@
     "number": 64,
     "thumbnail": "64.png",
     "title": "Layerable Apps:Comparing Concurrent and Exclusive Display of Augmented Reality Applications",
-    "authors": "by Brandon Huynh,Abby Wysopal,Vivian Ross,Jason Orlosky,Tobias Höllerer",
+    "authors": "by Brandon Huynh,Abby Wysopal,Vivian Ross,Jason Orlosky,Tobias Höllerer",
     "year": 2022,
     "Display Form": [
       "2D (image)",
-      "3D(object)"
+      "3D (object)"
     ],
     "Display Information": [
       "System"
@@ -2395,7 +2472,7 @@
     "number": 65,
     "thumbnail": "65.png",
     "title": "SPARVIS:Combining Smartphone and Augmented Reality for Visual Data Analytics",
-    "authors": "by Jinbin Huang,Shuang Liang,Qi Xiong,Yu Gao,Chao Mei,Yi Xu",
+    "authors": "by Jinbin Huang,Shuang Liang,Qi Xiong,Yu Gao,Chao Mei,Yi Xu",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2432,13 +2509,13 @@
     "number": 66,
     "thumbnail": "66.png",
     "title": "User Preference for Navigation Instructions in Mixed Reality",
-    "authors": "Jaewook Lee,Fanjie Jin,Younsoo Kim,David Lindlbauer",
+    "authors": "by Jaewook Lee,Fanjie Jin,Younsoo Kim,David Lindlbauer",
     "year": 2022,
     "Display Information": [
       "Task and plan"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat"
@@ -2459,7 +2536,7 @@
     "number": 67,
     "thumbnail": "67.png",
     "title": "Validating the Benefits of Glanceable and Context-Aware Augmented Reality for Everyday Information Access Tasks",
-    "authors": "Shakiba Davari,Feiyu Lu,Doug A. Bowman",
+    "authors": "by Shakiba Davari,Feiyu Lu,Doug A. Bowman",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2493,7 +2570,7 @@
     "number": 68,
     "thumbnail": "68.png",
     "title": "Creating and Augmenting Keyboards for Extended Reality with the Keyboard Augmentation Toolkit",
-    "authors": "Mark McGill,Stephen Brewster,Daniel Pires De Sa Medeiros,Sidney Bovet,Mario Gutierrez,Aidan Kehoe",
+    "authors": "by Mark McGill,Stephen Brewster,Daniel Pires De Sa Medeiros,Sidney Bovet,Mario Gutierrez,Aidan Kehoe",
     "year": 2022,
     "Display Form": [
       "2D (image)"
@@ -2505,7 +2582,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "User-manual"
@@ -2534,7 +2611,7 @@
     "number": 69,
     "thumbnail": "69.png",
     "title": "MechARspace:An Authoring System Enabling Bidirectional Binding of Augmented Reality with Toys in Real-time",
-    "authors": "Zhengzhe Zhu,Ziyi Liu,Tianyi Wang,Youyou Zhang,Xun Qian,Pashin Raja,Ana Villanueva,Karthik Ramani",
+    "authors": "by Zhengzhe Zhu,Ziyi Liu,Tianyi Wang,Youyou Zhang,Xun Qian,Pashin Raja,Ana Villanueva,Karthik Ramani",
     "year": 2022,
     "Display Form": [
       "2D (image)",
@@ -2574,13 +2651,13 @@
     "number": 70,
     "thumbnail": "70.png",
     "title": "Tangible Globes for Data Visualisation in Augmented Reality",
-    "authors": "Kadek Ananta Satriadi,Jim Smiley,Barrett Ens,Maxime Cordeil,Tobias Czauderna,Benjamin Lee,Ying Yang,Tim Dwyer,Berhard Jenny",
+    "authors": "by Kadek Ananta Satriadi,Jim Smiley,Barrett Ens,Maxime Cordeil,Tobias Czauderna,Benjamin Lee,Ying Yang,Tim Dwyer,Berhard Jenny",
     "year": 2022,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [
-      "Environmental",
+      "Environmentalal",
       "Explanatory and extended"
     ],
     "Anchoring": [
@@ -2614,14 +2691,14 @@
     "number": 71,
     "thumbnail": "71.png",
     "title": "Where Should We Put It? Layout and Placement Strategies of Documents in Augmented Reality for Collaborative Sensemaking",
-    "authors": "Kadek Ananta Satriadi,Jim Smiley,Barrett Ens,Maxime Cordeil,Tobias Czauderna,Benjamin Lee,Ying Yang,Tim Dwyer,Berhard Jenny",
+    "authors": "by Kadek Ananta Satriadi,Jim Smiley,Barrett Ens,Maxime Cordeil,Tobias Czauderna,Benjamin Lee,Ying Yang,Tim Dwyer,Berhard Jenny",
     "year": 2022,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [],
     "Anchoring": [
-      "Environment-fixed",
+      "Environmental-fixed",
       "Object-fixed"
     ],
     "Layout": [
@@ -2651,7 +2728,7 @@
     "number": 72,
     "thumbnail": "72.png",
     "title": "A Partially-Sorted Concentric Layout for Efficient Label Localization in Augmented Reality",
-    "authors": "Zijing Zhou,Lili Wang,Voicu Popescu",
+    "authors": "by Zijing Zhou,Lili Wang,Voicu Popescu",
     "year": 2021,
     "Display Form": [
       "2D (image)"
@@ -2663,7 +2740,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -2686,7 +2763,7 @@
     "number": 73,
     "thumbnail": "73.png",
     "title": "Personal Augmented Reality for Information Visualization on Large Interactive Displays",
-    "authors": "Patrick Reipschläger,Tamara Flemisch,Raimund Dachselt",
+    "authors": "by Patrick Reipschläger,Tamara Flemisch,Raimund Dachselt",
     "year": 2021,
     "Display Form": [
       "2D (image)"
@@ -2724,7 +2801,7 @@
     "number": 74,
     "thumbnail": "74.png",
     "title": "Uplift:A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics",
-    "authors": "Barrett Ens,Sarah Goodwin,Arnaud Prouzeau,Fraser Anderson,Florence Y. Wang,Samuel Gratzl,Zac Lucarelli,Brendan Moyle,Jim Smiley,Tim Dwyer",
+    "authors": "by Barrett Ens,Sarah Goodwin,Arnaud Prouzeau,Fraser Anderson,Florence Y. Wang,Samuel Gratzl,Zac Lucarelli,Brendan Moyle,Jim Smiley,Tim Dwyer",
     "year": 2021,
     "Display Form": [
       "2D (image)",
@@ -2754,7 +2831,7 @@
     ],
     "Scenario": [
       "Team communication in MR/AR",
-      "Understanding environment and work practice"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Lab"
@@ -2764,7 +2841,7 @@
     "number": 75,
     "thumbnail": "75.png",
     "title": "Radi-Eye:Hands-Free Radial Interfaces for 3D Interaction using Gaze-Activated Head-Crossing",
-    "authors": "Ludwig Sidenmark,Dominic Potts,Bill Kapisch,Hans Werner Gellersen",
+    "authors": "by Ludwig Sidenmark,Dominic Potts,Bill Kapisch,Hans Werner Gellersen",
     "year": 2021,
     "Display Form": [
       "2D (image)"
@@ -2806,7 +2883,7 @@
     "number": 76,
     "thumbnail": "76.png",
     "title": "Exploration of Techniques for Rapid Activation of Glanceable Information in Head-Worn Augmented Reality",
-    "authors": "Feiyu Lu,Shakiba Davari,Doug A. Bowman",
+    "authors": "by Feiyu Lu,Shakiba Davari,Doug A. Bowman",
     "year": 2021,
     "Display Form": [
       "2D (image)"
@@ -2818,7 +2895,7 @@
       "User-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -2846,11 +2923,11 @@
     "number": 77,
     "thumbnail": "77.png",
     "title": "EverywhereAR:SemanticAdapt:Optimization-based Adaptation of Mixed Reality Layouts Leveraging Virtual-Physical Semantic Connections",
-    "authors": "by Yifei Cheng,Yukang Yan,Xin Yi,Yuanchun Shi,David Lindlbauer",
+    "authors": "by Yifei Cheng,Yukang Yan,Xin Yi,Yuanchun Shi,David Lindlbauer",
     "year": 2021,
     "Display Form": [
-      "2D(image)",
-      "3D(object)"
+      "2D (image)",
+      "3D (object)"
     ],
     "Display Information": [
       "System"
@@ -2886,11 +2963,11 @@
     "number": 78,
     "thumbnail": "78.png",
     "title": "Comparing Non-Visual and Visual Guidance Methods for Narrow Field of View Augmented Reality Displays",
-    "authors": "by Alexander Marquardt,Christina Trepkowski,Tom David Eibich,Jens Maiero; Ernst Kruijff; Johannes Schöning",
+    "authors": "by Alexander Marquardt,Christina Trepkowski,Tom David Eibich,Jens Maiero; Ernst Kruijff; Johannes Schöning",
     "year": 2020,
     "Display Form": [
       "2D (image)",
-      "audio"
+      "Audio"
     ],
     "Display Information": [
       "Task and plan"
@@ -2921,17 +2998,17 @@
     "number": 79,
     "thumbnail": "79.png",
     "title": "Seamless,Bi-directional Transitions along the Reality-Virtuality Continuum:A Conceptualization and Prototype Exploration",
-    "authors": "by Ceenu George,An Ngo Tien,Heinrich Hussmann",
+    "authors": "by Ceenu George,An Ngo Tien,Heinrich Hussmann",
     "year": 2020,
     "Display Form": [
       "3D (object)"
     ],
     "Display Information": [
-      "Environmental"
+      "Environmentalal"
     ],
     "Anchoring": [
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -2960,14 +3037,14 @@
     "number": 80,
     "thumbnail": "80.png",
     "title": "Expanding the Bounds of Seated Virtual Workspaces",
-    "authors": "by Mark Mcgill,Aidan Kehoe,Euan Freeman,Stephen Brewster",
+    "authors": "by Mark Mcgill,Aidan Kehoe,Euan Freeman,Stephen Brewster",
     "year": 2020,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [],
     "Anchoring": [
-      "Use-fixed"
+      "User-fixed"
     ],
     "Layout": [
       "3D"
@@ -2977,7 +3054,7 @@
     ],
     "Driving Mechanism": [
       "Event-driven",
-      "Use-driven"
+      "User-driven"
     ],
     "Interaction Modality": [
       "Controller",
@@ -2998,7 +3075,7 @@
     "number": 81,
     "thumbnail": "81.png",
     "title": "Exploring Visual Techniques for Boundary Awareness During Interaction in Augmented Reality Head-Mounted Displays",
-    "authors": "Wenge Xu,Hai-Ning Liang,Yuzheng Chen,Xiang Li,Kangyou Yu",
+    "authors": "by Wenge Xu,Hai-Ning Liang,Yuzheng Chen,Xiang Li,Kangyou Yu",
     "year": 2020,
     "Display Form": [],
     "Display Information": [],
@@ -3028,7 +3105,7 @@
     "number": 82,
     "thumbnail": "82.png",
     "title": "Glanceable AR:Evaluating Information Access Methods for Head-Worn Augmented Reality",
-    "authors": "Feiyu Lu,Shakiba Davari,Lee Lisle,Yuan Li,Doug A. Bowman",
+    "authors": "by Feiyu Lu,Shakiba Davari,Lee Lisle,Yuan Li,Doug A. Bowman",
     "year": 2020,
     "Display Form": [
       "2D (image)"
@@ -3040,7 +3117,7 @@
       "User-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -3066,8 +3143,8 @@
   {
     "number": 83,
     "thumbnail": "83.png",
-    "title": "A Dynamic User Interface Based BCI Environmental Control System",
-    "authors": "Saisai Zhong,Yadong Liu,Yang Yu,Jingsheng Tang,Zongtan Zhou,Dewen Hu",
+    "title": "A Dynamic User Interface Based BCI Environmentalal Control System",
+    "authors": "by Saisai Zhong,Yadong Liu,Yang Yu,Jingsheng Tang,Zongtan Zhou,Dewen Hu",
     "year": 2020,
     "Display Form": [
       "2D (image)"
@@ -3079,7 +3156,7 @@
       "User-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -3103,7 +3180,7 @@
     "number": 84,
     "thumbnail": "84.png",
     "title": "Understanding Window Management Interactions in AR Headset+Smartphone Interface",
-    "authors": "Jie Ren,Chun Yu,Yueting Weng,Yuanchun Shi,Chengchi Zhou",
+    "authors": "by Jie Ren,Chun Yu,Yueting Weng,Yuanchun Shi,Chengchi Zhou",
     "year": 2020,
     "Display Form": [
       "2D (image)"
@@ -3144,7 +3221,7 @@
     "number": 85,
     "thumbnail": "85.png",
     "title": "Walk The Line:Leveraging Lateral Shifts of the Walking Path as an Input Modality for Head-Mounted Displays",
-    "authors": "Florian Müller,Martin Schmitz,Daniel Schmitt,Sebastian Günther,Markus Funk,Max Mühlhäuser",
+    "authors": "by Florian Müller,Martin Schmitz,Daniel Schmitt,Sebastian Günther,Markus Funk,Max Mühlhäuser",
     "year": 2020,
     "Display Form": [
       "2D (image)"
@@ -3153,7 +3230,7 @@
       "System"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat"
@@ -3182,7 +3259,7 @@
     "number": 86,
     "thumbnail": "86.png",
     "title": "AAR:Augmenting a Wearable Augmented Reality Display with an Actuated Head-Mounted Projector",
-    "authors": "Jeremy Hartmann,Yen-Ting Yeh,Daniel Vogel",
+    "authors": "by Jeremy Hartmann,Yen-Ting Yeh,Daniel Vogel",
     "year": 2020,
     "Display Form": [
       "2D (image)",
@@ -3192,7 +3269,7 @@
     "Anchoring": [
       "User-fixed",
       "Object-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "Flat"
@@ -3221,7 +3298,7 @@
     "number": 87,
     "thumbnail": "87.png",
     "title": "EARphy:Managing Photo Collections Using Physical Objects in AR",
-    "authors": "Han Joo Chae,Gwanno Park,Youli Chang,Jinwook Seo,Mingi Kim",
+    "authors": "by Han Joo Chae,Gwanno Park,Youli Chang,Jinwook Seo,Mingi Kim",
     "year": 2020,
     "Display Form": [
       "3D (object)"
@@ -3263,7 +3340,7 @@
     "number": 88,
     "thumbnail": "88.png",
     "title": "GeoGate:Correlating Geo-Temporal Datasets Using an Augmented Reality Space-Time Cube and Tangible Interactions",
-    "authors": "Seung Youb Ssin,James A. Walsh,Ross T. Smith,Andrew Cunningham,Bruce H. Thomas",
+    "authors": "by Seung Youb Ssin,James A. Walsh,Ross T. Smith,Andrew Cunningham,Bruce H. Thomas",
     "year": 2019,
     "Display Form": [
       "2D (image)",
@@ -3273,7 +3350,7 @@
       "Explanatory and extended"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -3302,7 +3379,7 @@
     "number": 89,
     "thumbnail": "89.png",
     "title": "Context-Aware Online Adaptation of Mixed Reality Interfaces",
-    "authors": "David Lindlbauer,Anna Maria Feit,Otmar Hilliges",
+    "authors": "by David Lindlbauer,Anna Maria Feit,Otmar Hilliges",
     "year": 2019,
     "Display Form": [
       "2D (image)"
@@ -3310,7 +3387,7 @@
     "Display Information": [],
     "Anchoring": [
       "User-fixed",
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -3339,11 +3416,11 @@
     "number": 90,
     "thumbnail": "90.png",
     "title": "Towards Efficient Visual Guidance in Limited Field-of-View Head-Mounted Displays",
-    "authors": "by Felix Bork,Christian Schnelzer,Ulrich Eck,Nassir Navab",
+    "authors": "by Felix Bork,Christian Schnelzer,Ulrich Eck,Nassir Navab",
     "year": 2018,
     "Display Form": [
       "2D (image)",
-      "3D(object)"
+      "3D (object)"
     ],
     "Display Information": [
       "Task and plan"
@@ -3375,7 +3452,7 @@
     "number": 91,
     "thumbnail": "91.png",
     "title": "ARCord:Visually Augmented Interactive Cords for Mobile Interaction",
-    "authors": "Konstantin Klamka,Raimund Dachselt",
+    "authors": "by Konstantin Klamka,Raimund Dachselt",
     "year": 2019,
     "Display Form": [
       "2D (image)"
@@ -3412,7 +3489,7 @@
     "number": 92,
     "thumbnail": "92.png",
     "title": "Demonstrating Reality-Based Information Retrieval",
-    "authors": "Wolfgang Büschel,Annett Mitschick,Raimund Dachselt",
+    "authors": "by Wolfgang Büschel,Annett Mitschick,Raimund Dachselt",
     "year": 2018,
     "Display Form": [
       "2D (image)"
@@ -3453,7 +3530,7 @@
     "number": 93,
     "thumbnail": "93.png",
     "title": "Evaluation of Attention Guiding Techniques for Augmented Reality-based Assistance in Picking and Assembly Tasks",
-    "authors": "Patrick Renner,Thies Pfeiffer",
+    "authors": "by Patrick Renner,Thies Pfeiffer",
     "year": 2017,
     "Display Form": [
       "2D (image)",
@@ -3492,7 +3569,7 @@
     "number": 94,
     "thumbnail": "94.png",
     "title": "Selection and Manipulation Methods for a Menu Widget on the Human Forearm",
-    "authors": "Konstantin Klamka,Raimund Dachselt",
+    "authors": "by Konstantin Klamka,Raimund Dachselt",
     "year": 2017,
     "Display Form": [
       "2D (image)",
@@ -3531,7 +3608,7 @@
     "number": 95,
     "thumbnail": "95.png",
     "title": "Annexing Reality:Enabling Opportunistic Use of Everyday Objects as Tangible Proxies in Augmented Reality",
-    "authors": "Anuruddha Hettiarachchi,Daniel Wigdor",
+    "authors": "by Anuruddha Hettiarachchi,Daniel Wigdor",
     "year": 2016,
     "Display Form": [
       "3D (object)"
@@ -3549,7 +3626,7 @@
       "Designer-manual"
     ],
     "Driving Mechanism": [
-      "Adaptative"
+      "Adaptive"
     ],
     "Interaction Modality": [
       "Tangible"
@@ -3569,7 +3646,7 @@
     "number": 96,
     "thumbnail": "96.png",
     "title": "Halo Content:Context-aware Viewspace Management for Non-invasive Augmented Reality",
-    "authors": "by Jason Orlosky,Kiyoshi Kiyokawa,Takumi Toyama,Daniel Sonntag",
+    "authors": "by Jason Orlosky,Kiyoshi Kiyokawa,Takumi Toyama,Daniel Sonntag",
     "year": 2015,
     "Display Form": [
       "2D (image)"
@@ -3602,7 +3679,7 @@
     "number": 97,
     "thumbnail": "97.png",
     "title": "On the Usability and Effectiveness of Different Interaction Types in Augmented Reality",
-    "authors": "by Drago¸s Datcu,Stephan Lukosch,Frances Brazier",
+    "authors": "by Drago¸s Datcu,Stephan Lukosch,Frances Brazier",
     "year": 2015,
     "Display Form": [
       "2D (image)"
@@ -3641,8 +3718,8 @@
   {
     "number": 98,
     "thumbnail": "98.png",
-    "title": "Parallel Web Browsing in Tangible Augmented Reality Environments",
-    "authors": "by Mohammed AlSada,Tatsuo Nakajima",
+    "title": "Parallel Web Browsing in Tangible Augmented Reality Environmentals",
+    "authors": "by Mohammed AlSada,Tatsuo Nakajima",
     "year": 2015,
     "Display Form": [
       "2D (image)"
@@ -3652,7 +3729,7 @@
       "System"
     ],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -3681,7 +3758,7 @@
     "number": 99,
     "thumbnail": "99.png",
     "title": "Analysing the Effects of a Wide Field of View Augmented Reality Display on Search Performance in Divided Attention Tasks",
-    "authors": "Naohiro Kishishita,Kiyoshi Kiyokawa,Jason Orlosky,Tomohiro Mashita,Haruo Takemura",
+    "authors": "by Naohiro Kishishita,Kiyoshi Kiyokawa,Jason Orlosky,Tomohiro Mashita,Haruo Takemura",
     "year": 2014,
     "Display Form": [
       "2D (image)"
@@ -3693,7 +3770,7 @@
       "User-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -3715,7 +3792,7 @@
     "number": 100,
     "thumbnail": "100.png",
     "title": "Augmented Presentations:Supporting the Communication in Presentations by Means of Augmented Reality",
-    "authors": "Telmo Zarraonandia,Ignacio Aedo,Paloma Díaz,Alvaro Montero Montes",
+    "authors": "by Telmo Zarraonandia,Ignacio Aedo,Paloma Díaz,Alvaro Montero Montes",
     "year": 2014,
     "Display Form": [
       "2D (image)"
@@ -3727,7 +3804,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Fat"
+      "Flat"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -3753,7 +3830,7 @@
     "number": 101,
     "thumbnail": "101.png",
     "title": "Opportunistic Tangible User Interfaces for Augmented Reality",
-    "authors": "Steven Henderson,Steven Feiner",
+    "authors": "by Steven Henderson,Steven Feiner",
     "year": 2010,
     "Display Form": [
       "2D (image)",
@@ -3794,7 +3871,7 @@
     "number": 102,
     "thumbnail": "102.png",
     "title": "Tangible spin cube for 3D ring menu in real space",
-    "authors": "Hyeongmook Lee,Woontack Woo",
+    "authors": "by Hyeongmook Lee,Woontack Woo",
     "year": 2010,
     "Display Form": [
       "3D (object)"
@@ -3832,7 +3909,7 @@
     "number": 103,
     "thumbnail": "103.png",
     "title": "Spatially Organized Interfaces for Document Navigation in Mixed Reality",
-    "authors": "Colin A. Brett,Scott Bateman",
+    "authors": "by Colin A. Brett,Scott Bateman",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -3869,7 +3946,7 @@
     "number": 104,
     "thumbnail": "104.png",
     "title": "RealitySummary:Exploring On-Demand Mixed Reality Text Summarization and Question Answering using Large Language Models",
-    "authors": "Aditya Gunturu,Shivesh Singh Jadon,Nandi Zhang,Morteza Faraji,Jarin Thundathil,Wesley Willett,Ryo Suzuki",
+    "authors": "by Aditya Gunturu,Shivesh Singh Jadon,Nandi Zhang,Morteza Faraji,Jarin Thundathil,Wesley Willett,Ryo Suzuki",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -3901,7 +3978,7 @@
     ],
     "Scenario": [
       "User experience",
-      "Understanding environment and work"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Lab",
@@ -3912,7 +3989,7 @@
     "number": 105,
     "thumbnail": "105.png",
     "title": "Exploring the Effects of Augmented Reality Guidance Position within a Body-Fixed Coordinate System on Pedestrian Navigation",
-    "authors": "Shunbo Wang,Qing Xu,Klaus Schoeffmann",
+    "authors": "by Shunbo Wang,Qing Xu,Klaus Schoeffmann",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -3950,7 +4027,7 @@
     "number": 106,
     "thumbnail": "106.png",
     "title": "The Effect of Layout on Visual Search in Augmented Reality Multi-Window Displays",
-    "authors": "Peiyu Zhang,Mohamad El Iskandarani,Sara Riggs",
+    "authors": "by Peiyu Zhang,Mohamad El Iskandarani,Sara Riggs",
     "year": 2025,
     "Display Form": [
       "2D (image)"
@@ -3981,14 +4058,14 @@
     "number": 107,
     "thumbnail": "107.png",
     "title": "User-Driven Constraints for Layout Optimisation in Augmented Reality",
-    "authors": "Aziz Niyazov,Barrett Ens,Kadek Ananta Satriadi,Nicolas Mellado,Loic Barthe,Tim Dwyer,Marcos Serrano",
+    "authors": "by Aziz Niyazov,Barrett Ens,Kadek Ananta Satriadi,Nicolas Mellado,Loic Barthe,Tim Dwyer,Marcos Serrano",
     "year": 2023,
     "Display Form": [
       "2D (image)"
     ],
     "Display Information": [],
     "Anchoring": [
-      "Environment-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -4018,7 +4095,7 @@
     "number": 108,
     "thumbnail": "108.png",
     "title": "Walking with Adaptive Augmented Reality Workspaces:Design and Usage Patterns",
-    "authors": "Wallace S. Lages,Doug A. Bowman",
+    "authors": "by Wallace S. Lages,Doug A. Bowman",
     "year": 2019,
     "Display Form": [
       "2D (image)"
@@ -4027,7 +4104,7 @@
       "System"
     ],
     "Anchoring": [
-      "Environment-fixed",
+      "Environmental-fixed",
       "User-fixed"
     ],
     "Layout": [
@@ -4039,7 +4116,7 @@
     ],
     "Driving Mechanism": [
       "User-driven",
-      "Adaptative"
+      "Adaptive"
     ],
     "Interaction Modality": [
       "Gesture"
@@ -4048,7 +4125,7 @@
       "Manipulation"
     ],
     "Scenario": [
-      "Understanding environment and work"
+      "Understanding environment and work practices"
     ],
     "Setting": [
       "Lab"
