@@ -34,7 +34,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3713954"
   },
   {
     "number": 2,
@@ -67,7 +69,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3544549.3585853"
   },
   {
     "number": 3,
@@ -107,7 +111,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 UIST",
+    "link": "https://dl.acm.org/doi/10.1145/3654777.3676379"
   },
   {
     "number": 4,
@@ -146,7 +152,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 ISMAR",
+    "link": "https://ieeexplore.ieee.org/document/9995125"
   },
   {
     "number": 5,
@@ -184,7 +192,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 IEEE VRW",
+    "link": "https://ieeexplore.ieee.org/document/10108668"
   },
   {
     "number": 6,
@@ -221,7 +231,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3613905.3648668"
   },
   {
     "number": 7,
@@ -265,7 +277,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2023 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3544548.3581449"
   },
   {
     "number": 8,
@@ -311,7 +325,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2023 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3544548.3580750"
   },
   {
     "number": 9,
@@ -350,7 +366,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3491102.3517723"
   },
   {
     "number": 10,
@@ -389,7 +407,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3613904.3642740"
   },
   {
     "number": 11,
@@ -430,7 +450,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10989508"
   },
   {
     "number": 12,
@@ -469,7 +491,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10847944/"
   },
   {
     "number": 13,
@@ -502,7 +526,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10896839"
   },
   {
     "number": 14,
@@ -548,7 +574,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10930699"
   },
   {
     "number": 15,
@@ -588,7 +616,9 @@
     "Setting": [
       "Lab",
       "Wild"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10747531"
   },
   {
     "number": 16,
@@ -788,7 +818,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3706598.3714056"
   },
   {
     "number": 21,
@@ -827,7 +859,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 IEEE ISMAR",
+    "link": "https://ieeexplore.ieee.org/document/10765366"
   },
   {
     "number": 22,
@@ -864,7 +898,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 IEEE ISMAR",
+    "link": "https://ieeexplore.ieee.org/document/10765478"
   },
   {
     "number": 23,
@@ -907,7 +943,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 IEEE ISMAR- Adjunct",
+    "link": "https://ieeexplore.ieee.org/document/10765248"
   },
   {
     "number": 24,
@@ -939,7 +977,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 IEEE ISMAR- Adjunct",
+    "link": "https://ieeexplore.ieee.org/document/10765314"
   },
   {
     "number": 25,
@@ -1130,7 +1170,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/10319779"
   },
   {
     "number": 30,
@@ -1328,7 +1370,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3613905.3638181"
   },
   {
     "number": 35,
@@ -1359,7 +1403,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3613905.3651059"
   },
   {
     "number": 36,
@@ -1432,7 +1478,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2024 ACM SUI",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3677386.3682084"
   },
   {
     "number": 38,
@@ -1473,7 +1521,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 IEEE ISMAR-Adjunct",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10322231"
   },
   {
     "number": 39,
@@ -1547,7 +1597,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 IEEE ISMAR",
+    "link": "https://ieeexplore.ieee.org/document/10316502"
   },
   {
     "number": 41,
@@ -1808,7 +1860,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9904446"
   },
   {
     "number": 48,
@@ -1842,7 +1896,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 ACM IUI",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3581641.3584038"
   },
   {
     "number": 49,
@@ -1884,7 +1940,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2023 ACM SUI",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3607822.3614515"
   },
   {
     "number": 50,
@@ -1923,7 +1981,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 IJHCI",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2062548"
   },
   {
     "number": 51,
@@ -2006,7 +2066,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3544548.3581444"
   },
   {
     "number": 53,
@@ -2043,7 +2105,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3544549.3585732"
   },
   {
     "number": 54,
@@ -2083,7 +2147,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 ACM UIST",
+    "link": "https://dl.acm.org/doi/10.1145/3544548.3580752"
   },
   {
     "number": 55,
@@ -2123,7 +2189,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2023 ACM UIST",
+    "link": "https://dl.acm.org/doi/10.1145/3586183.3606793"
   },
   {
     "number": 56,
@@ -2197,7 +2265,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/9873972"
   },
   {
     "number": 58,
@@ -2236,7 +2306,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/9874255"
   },
   {
     "number": 59,
@@ -2530,7 +2602,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 IEEE VR",
+    "link": "https://ieeexplore.ieee.org/document/9756757"
   },
   {
     "number": 67,
@@ -2564,7 +2638,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 IEEE VR",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9756789"
   },
   {
     "number": 68,
@@ -2605,7 +2681,9 @@
     "Setting": [
       "Lab",
       "Wild"
-    ]
+    ],
+    "conference": "2022 ACM TOCHI",
+    "link": "https://dl.acm.org/doi/full/10.1145/3490495"
   },
   {
     "number": 69,
@@ -2645,7 +2723,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 UIST",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3526113.3545668"
   },
   {
     "number": 70,
@@ -2685,7 +2765,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2022 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3491102.3517715"
   },
   {
     "number": 71,
@@ -2722,7 +2804,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2022 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3491102.3501946"
   },
   {
     "number": 72,
@@ -2757,7 +2841,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2021 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9523830"
   },
   {
     "number": 73,
@@ -2795,7 +2881,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2021 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9223669"
   },
   {
     "number": 74,
@@ -2835,7 +2923,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2021 IEEE VRW",
+    "link": "https://ieeexplore.ieee.org/document/9229116/"
   },
   {
     "number": 75,
@@ -2877,7 +2967,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2021 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3411764.3445697"
   },
   {
     "number": 76,
@@ -2917,7 +3009,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2021 ACM SUI",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3485279.3485286"
   },
   {
     "number": 77,
@@ -3099,7 +3193,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 IEEE VR",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9089517"
   },
   {
     "number": 82,
@@ -3138,7 +3234,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 IEEE VR",
+    "link": "https://ieeexplore.ieee.org/abstract/document/9089433"
   },
   {
     "number": 83,
@@ -3174,7 +3272,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 IJHCI",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1604473?scroll=top&needAccess=true#abstract"
   },
   {
     "number": 84,
@@ -3215,7 +3315,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3334480.3382812"
   },
   {
     "number": 85,
@@ -3253,7 +3355,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3313831.3376852"
   },
   {
     "number": 86,
@@ -3292,7 +3396,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 ACM UIST",
+    "link": "https://dlnext.acm.org/doi/10.1145/3379337.3415849"
   },
   {
     "number": 87,
@@ -3334,7 +3440,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2020 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3334480.3382885"
   },
   {
     "number": 88,
@@ -3373,7 +3481,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2019 IEEE VR",
+    "link": "https://ieeexplore.ieee.org/document/8797812"
   },
   {
     "number": 89,
@@ -3410,7 +3520,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2019 ACM UIST",
+    "link": "https://dl.acm.org/doi/10.1145/3332165.3347945"
   },
   {
     "number": 90,
@@ -3483,7 +3595,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2018 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3170427.3188456"
   },
   {
     "number": 92,
@@ -3524,7 +3638,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2018 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3170427.3186493"
   },
   {
     "number": 93,
@@ -3563,7 +3679,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2017 ACM IUI",
+    "link": "https://dl.acm.org/doi/10.1145/3030024.3040987"
   },
   {
     "number": 94,
@@ -3602,7 +3720,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2017 ACM CHI EA",
+    "link": "https://dl.acm.org/doi/10.1145/3027063.3052959"
   },
   {
     "number": 95,
@@ -3640,7 +3760,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2016 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/2858036.2858134"
   },
   {
     "number": 96,
@@ -3786,7 +3908,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2014 IEEE ISMAR",
+    "link": "https://ieeexplore.ieee.org/abstract/document/6948425"
   },
   {
     "number": 100,
@@ -3824,7 +3948,9 @@
     ],
     "Setting": [
       "Wild"
-    ]
+    ],
+    "conference": "2014 IJHCI",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/10447318.2014.927283?needAccess=true#d1e160"
   },
   {
     "number": 101,
@@ -3865,7 +3991,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2010 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/5184834"
   },
   {
     "number": 102,
@@ -3903,7 +4031,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2010 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/1753846.1754117"
   },
   {
     "number": 103,
@@ -3940,7 +4070,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 ACM SUI",
+    "link": "https://dl.acm.org/doi/10.1145/3694907.3765921"
   },
   {
     "number": 104,
@@ -3983,7 +4115,9 @@
     "Setting": [
       "Lab",
       "Wild"
-    ]
+    ],
+    "conference": "2025 ACM SUI",
+    "link": "https://dl.acm.org/doi/10.1145/3694907.3765933"
   },
   {
     "number": 105,
@@ -4021,7 +4155,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/11192100/"
   },
   {
     "number": 106,
@@ -4052,7 +4188,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 IEEE TVCG",
+    "link": "https://ieeexplore.ieee.org/document/11296856"
   },
   {
     "number": 107,
@@ -4089,7 +4227,9 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 ACM CHI",
+    "link": "https://dl.acm.org/doi/10.1145/3544548.3580873"
   },
   {
     "number": 108,
@@ -4129,6 +4269,8 @@
     ],
     "Setting": [
       "Lab"
-    ]
+    ],
+    "conference": "2025 ACM IUI",
+    "link": "https://dl.acm.org/doi/10.1145/3301275.3302278"
   }
 ]
