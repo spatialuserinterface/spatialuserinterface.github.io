@@ -248,7 +248,7 @@
     ],
     "Display Information": [
       "Task and plan",
-      "Environmentalal"
+      "Environmental"
     ],
     "Anchoring": [
       "Object-fixed"
@@ -508,7 +508,7 @@
       "Explanatory and extended"
     ],
     "Anchoring": [
-      "Environmentalal-fixed"
+      "Environmental-fixed"
     ],
     "Layout": [
       "3D"
@@ -541,7 +541,7 @@
       "3D (object)"
     ],
     "Display Information": [
-      "Environmentalal",
+      "Environmental",
       "Social and contextual",
       "Explanatory and extended"
     ],
@@ -764,7 +764,7 @@
     ],
     "Layout": [
       "Flat",
-      "Embeded"
+      "Embedded"
     ],
     "Creation Method": [
       "Designer-manual"
@@ -1518,7 +1518,7 @@
       "2D (image)"
     ],
     "Display Information": [
-      "Environmentalal"
+      "Environmental"
     ],
     "Anchoring": [
       "Object-fixed"
@@ -2076,7 +2076,7 @@
       "3D (object)"
     ],
     "Display Information": [
-      "Environmentalal",
+      "Environmental",
       "Social and contextual"
     ],
     "Anchoring": [
@@ -2444,7 +2444,7 @@
       "3D (object)"
     ],
     "Display Information": [
-      "Environmentalal"
+      "Environmental"
     ],
     "Anchoring": [
       "Open space"
@@ -2543,14 +2543,15 @@
     ],
     "Interaction Function": [
       "Activation",
-      "Selection"
+      "Selection",
+      "Manipulation"
     ],
     "Scenario": [
-      "User performance",
-      "User experience"
+      "Understanding environment and work practices",
+      "Qualitative result inspection"
     ],
     "Setting": [
-      "Lab"
+      "Wild"
     ],
     "conference": "2022 ISMAR",
     "link": "https://ieeexplore.ieee.org/abstract/document/9995385"
@@ -2623,7 +2624,8 @@
       "Controller"
     ],
     "Interaction Function": [
-      "Activation"
+      "Activation",
+      "Selection"
     ],
     "Scenario": [
       "User performance",
@@ -2641,6 +2643,10 @@
     "title": "User Preference for Navigation Instructions in Mixed Reality",
     "authors": "by Jaewook Lee,Fanjie Jin,Younsoo Kim,David Lindlbauer",
     "year": 2022,
+    "Display Form": [
+      "2D (image)",
+      "3D (object)"
+    ],
     "Display Information": [
       "Task and plan"
     ],
@@ -2782,7 +2788,7 @@
     "Setting": [
       "Lab"
     ],
-    "conference": "2022 UIST",
+    "conference": "2022 UIST ACM",
     "link": "https://dl.acm.org/doi/abs/10.1145/3526113.3545668"
   },
   {
@@ -2795,7 +2801,7 @@
       "2D (image)"
     ],
     "Display Information": [
-      "Environmentalal",
+      "Environmental",
       "Explanatory and extended"
     ],
     "Anchoring": [
@@ -3160,7 +3166,7 @@
       "3D (object)"
     ],
     "Display Information": [
-      "Environmentalal"
+      "Environmental"
     ],
     "Anchoring": [
       "Object-fixed",
@@ -3307,7 +3313,7 @@
   {
     "number": 83,
     "thumbnail": "83.png",
-    "title": "A Dynamic User Interface Based BCI Environmentalal Control System",
+    "title": "A Dynamic User Interface Based BCI Environmental Control System",
     "authors": "by Saisai Zhong,Yadong Liu,Yang Yu,Jingsheng Tang,Zongtan Zhou,Dewen Hu",
     "year": 2020,
     "Display Form": [
