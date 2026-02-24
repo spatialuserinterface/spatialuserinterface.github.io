@@ -90,9 +90,7 @@
     "Anchoring": [
       "Object-fixed"
     ],
-    "Layout": [
-      "Flat"
-    ],
+    "Layout": [],
     "Creation Method": [
       "Automatic"
     ],
@@ -300,8 +298,7 @@
       "Object-fixed"
     ],
     "Layout": [
-      "Flat",
-      "3D"
+      "Flat"
     ],
     "Creation Method": [
       "User-manual"
@@ -2068,7 +2065,7 @@
   {
     "number": 52,
     "thumbnail": "52.png",
-    "title": "Harnessing the Visual Salience Effect With Augmented Reality to Enhance Relevant Information and to Impair Distracting Information",
+    "title": "UnMapped:Leveraging Experts’ Situated Experiences to Ease Remote Guidance in Collaborative Mixed Reality",
     "authors": "by Xin Lei,Yueh-Lin Tsai,Pei-Luen Patrick Ra",
     "year": 2023,
     "Display Form": [
@@ -3080,7 +3077,7 @@
   {
     "number": 77,
     "thumbnail": "77.png",
-    "title": "EverywhereAR:SemanticAdapt:Optimization-based Adaptation of Mixed Reality Layouts Leveraging Virtual-Physical Semantic Connections",
+    "title": "SemanticAdapt:Optimization-based Adaptation of Mixed Reality Layouts Leveraging Virtual-Physical Semantic Connections",
     "authors": "by Yifei Cheng,Yukang Yan,Xin Yi,Yuanchun Shi,David Lindlbauer",
     "year": 2021,
     "Display Form": [
@@ -3475,7 +3472,7 @@
   {
     "number": 87,
     "thumbnail": "87.png",
-    "title": "EARphy:Managing Photo Collections Using Physical Objects in AR",
+    "title": "ARphy:Managing Photo Collections Using Physical Objects in AR",
     "authors": "by Han Joo Chae,Gwanno Park,Youli Chang,Jinwook Seo,Mingi Kim",
     "year": 2020,
     "Display Form": [
@@ -3656,7 +3653,7 @@
       "Designer-manual"
     ],
     "Driving Mechanism": [
-      "Adaptive"
+      "User-driven"
     ],
     "Interaction Modality": [
       "Tangible"
@@ -3925,8 +3922,7 @@
       "2D (image)"
     ],
     "Display Information": [
-      "Explanatory and extended",
-      "System"
+      "Explanatory and extended"
     ],
     "Anchoring": [
       "Environmental-fixed"
